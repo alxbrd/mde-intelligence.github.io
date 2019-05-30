@@ -3,7 +3,17 @@ title: Committees
 ---
 
 ### PROGRAM COMMITTEE
-TBD
+
+* Javier Troya (University of Seville)
+* Shaukat Ali (Simula Research Laboratory)
+* Daniel Varro (McGill University / Budapest University of Technology and Economics)
+* Joachim Denil (University of Antwerp)
+* Daniel Strüber Chalmers University ( University of Gothenburg)
+* Shekoufeh Kolahdouz Rahimi (University of Isfahan)
+* Richard Paige (University of York)
+* Betty Cheng (Michigan State University)
+
+More members will be added shortly.
 
 ### ORGANIZATION COMMITTEE
 * [Loli Burgueño](https://som-research.uoc.edu/loli-burgueno/) (Open University of Catalonia, Spain & CEA List, France)
