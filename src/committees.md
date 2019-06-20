@@ -12,7 +12,7 @@ title: Committees
 * Shekoufeh Kolahdouz Rahimi (University of Isfahan)
 * Richard Paige (University of York)
 * Betty Cheng (Michigan State University)
-* Bran Selic
+* Bran Selic (Malina Software Corporation)
 * Aurora Ramirez (University of Córdoba)
 * Francisco	Chicano (University of Málaga)
 * Shuai	Li (CEA LIST)
