@@ -17,11 +17,20 @@ Although AI is the most popular branch of computer science to create and simulat
 
 All dates are AoE.
 
-* Abstract submission: June 28, 2019
-* Paper submission: July 5, 2019
-* Notification: July 26, 2019
+* ~~Abstract submission: June 28, 2019~~
+* ~~Paper submission: July 5, 2019~~
+* ~~Notification: July 26, 2019~~
 * Camera-ready: August 2, 2019
 * Workshop date: September 15-17, 2019
+
+
+### Accepted Papers
+
+* Sebastian Pilarski, Martin Staniszewski, Frederic Villeneuve and Daniel Varro "On Artificial Intelligence for Simulation and Design Space Exploration in Gas Turbine Design"
+* Angela Barriga, Adrian Rutle and Rogardt Heldal "Personalized and automatic model repairing using reinforcement learning"
+* Christopher Gerking and Ingo Budde "Heuristic Inference of Model Transformation Definitions from Type Mappings"
+* Alexandru Burdusel and Steffen Zschaler "Towards Scalable Search-Based Model Engineering"
+* Nicola Gatto, Evgeny Kusmenko and Bernhard Rumpe "Modeling and Training of Reinforcement Learning Architectures"
 
 ### Contact
 If you have questions, contact us by email at: mdeintelligence2019@easychair.org.
