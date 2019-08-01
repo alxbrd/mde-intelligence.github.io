@@ -18,7 +18,6 @@ title: Committees
 * Shuai	Li (CEA LIST)
 * Moharram Challenger (University of Antwerp)
 
-More members will be added shortly.
 
 ### ORGANIZATION COMMITTEE
 * [Loli Burgueño](https://som-research.uoc.edu/loli-burgueno/) (Open University of Catalonia, Spain & CEA List, France)
