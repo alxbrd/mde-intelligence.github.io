@@ -16,6 +16,7 @@ title: Committees
 * Aurora Ramirez (University of Córdoba)
 * Francisco	Chicano (University of Málaga)
 * Shuai	Li (CEA LIST)
+* Moharram Challenger (University of Antwerp)
 
 More members will be added shortly.
 
