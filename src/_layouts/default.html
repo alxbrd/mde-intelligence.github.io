@@ -40,6 +40,13 @@
 						<a href="{{ site.baseurl }}/">Home</a>
 					</li>
 				</ul>
+				
+				<ul>
+					<li class="nav-item top-level {% if page.url == '/keynote/' %}current{% endif %}">
+						{% assign keynote = site.html_pages | where: 'url', '/keynote/' | first %}
+						<a href="{{ site.baseurl }}/keynote/">{{ keynote.title }}</a>
+					</li>
+				</ul>
 
 				<ul>
 					<li class="nav-item top-level {% if page.url == '/committees/' %}current{% endif %}">
@@ -54,6 +61,7 @@
 						<a href="{{ site.baseurl }}/cfp/">{{ cfp.title }}</a>
 					</li>
 				</ul>
+
 			</nav>
 		</header>
 

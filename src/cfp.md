@@ -62,7 +62,7 @@ Each submission will be review by at least 3 members of the program committee. T
 * ~~Abstract submission: June 28, 2019~~
 * ~~Paper submission: July 5, 2019~~
 * ~~Notification: July 26, 2019~~
-* Camera-ready: August 2, 2019
+* ~~Camera-ready: August 2, 2019~~
 * Workshop date: September 15-17, 2019
 
 ### Contact

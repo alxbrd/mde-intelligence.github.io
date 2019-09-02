@@ -1,0 +1,13 @@
+---
+title: Keynote
+---
+
+## Software Engineering Intelligence for Model-Driven Engineering
+
+The recent advances in Artificial Intelligence (AI) are dramatically impacting the way we are designing and evolving software systems. Software Engineering Intelligence (SEI) is a new paradigm to address the growing need to combine different types of AI algorithms ranging from metaheuristics search to machine learning, NLP, and deep learning for Software Engineering problems covering the software life-cycle. This new field is motivated by the urgent needs to reduce designers/developers interaction, provide explanations, support scalable solutions and extract relevant knowledge to understand the designer/developer preferences. However, the combination of carefully designed intelligent methods is challenging due to their different assumptions, computational complexity, and randomness.
+
+This keynote will introduce Software Engineering Intelligence (SEI); foundations, recent advances and directions for future work. The talk will provide an overview of recent results in the successful application of SEI to Model-Driven Engineering by combing various intelligent methods. The talk will also set an agenda for future work on the application of SEI to various MDE challenges.
+
+### Speaker Bio
+
+Dr. Marouane Kessentini is a recipient of the prestigious 2018 President of Tunisia distinguished research award, the University distinguished teaching award, the University distinguished digital education award, the College of Engineering and Computer Science distinguished research award, 4 best paper awards, and his AI-based software refactoring invention, licensed and deployed by industrial partners, is selected as one of the Top 8 inventions at the University of Michigan for 2018 (including the three campuses), among over 500 inventions, by the UM Technology Transfer Office. He is currently a tenured associate professor and leading a research group on Software Engineering Intelligence. Prior to joining UM in 2013, He received his Ph.D. from the University of Montreal in Canada in 2012. He received several grants from both industry and federal agencies and published over 110 papers in top journals and conferences. Dr. Kessentini has several collaborations with industry on the use of computational search, machine learning and evolutionary algorithms to address software engineering and services computing problems. He is the co-founder of IWoR and NasBASE, General Chair of SSBSE16 and ASE21, and PC chair of MODELS19, GECCO14-15 (SBSE Track). He served as invited speaker at SSBSE and WCCI, graduated 13 Ph.D. student as a chair and serving as associate editor in 7 journals and PC member of over 100 conferences.
