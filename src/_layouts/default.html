@@ -49,6 +49,13 @@
 				</ul>
 
 				<ul>
+					<li class="nav-item top-level {% if page.url == '/program/' %}current{% endif %}">
+						{% assign program = site.html_pages | where: 'url', '/program/' | first %}
+						<a href="{{ site.baseurl }}/program/">{{ program.title }}</a>
+					</li>
+				</ul>
+
+				<ul>
 					<li class="nav-item top-level {% if page.url == '/committees/' %}current{% endif %}">
 						{% assign committees = site.html_pages | where: 'url', '/committees/' | first %}
 						<a href="{{ site.baseurl }}/committees/">{{ committees.title }}</a>
